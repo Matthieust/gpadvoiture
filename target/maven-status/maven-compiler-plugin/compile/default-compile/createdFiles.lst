@@ -1,0 +1,8 @@
+com/gpadvoiture/location/model/User.class
+com/gpadvoiture/location/model/Event$EventBuilder.class
+com/gpadvoiture/location/web/GroupController.class
+com/gpadvoiture/location/model/GroupRepository.class
+com/gpadvoiture/location/model/Event.class
+com/gpadvoiture/location/Initializer.class
+com/gpadvoiture/location/LocationApplication.class
+com/gpadvoiture/location/model/Group.class
